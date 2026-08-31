@@ -119,7 +119,7 @@ export default function App() {
         />
       </div>
 
-      <footer>ИИ-Студия v1.1 • React + Vite, без сервера. Данные: ключи и история — только в localStorage вашего браузера. Сгенерированный контент — продукт сторонних моделей (OpenAI / Anthropic / Google / Replicate).</footer>
+      <footer>ИИ-Студия v1.1 • React + Vite, без сервера. Данные: ключи и история — только в localStorage вашего браузера. Сгенерированный контент — продукт сторонних моделей (OpenAI / Anthropic / Google / Replicate). <a href="https://github.com/belknikolja-arch/ai-studio" target="_blank" rel="noopener">💻 GitHub ↗</a></footer>
     </div>
   );
 }
